@@ -1,0 +1,9 @@
+{
+  "courses": [
+    { "id": 1, "title": "Postman" },
+    { "id": 2, "title": "Selenium" }
+  ],
+  "users": [
+    { "id": 1, "firstName": "Fahad Alghamdi " }
+  ]
+}
