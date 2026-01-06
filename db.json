@@ -1,9 +1,26 @@
 {
   "courses": [
-    { "id": 1, "title": "Postman" },
-    { "id": 2, "title": "Selenium" }
+    {
+      "id": 1,
+      "title": "Postman"
+    },
+    {
+      "id": 2,
+      "title": "Selenium"
+    },
+    {
+      "id": 1,
+      "title": "Cypress"
+    },
+    {
+      "id": 1,
+      "title": "Cypress"
+    }
   ],
   "users": [
-    { "id": 1, "firstName": "Fahad Alghamdi " }
+    {
+      "id": 1,
+      "firstName": "Fahad Alghamdi"
+    }
   ]
 }
